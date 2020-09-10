@@ -1,0 +1,9 @@
+file:
+  /docker-entrypoint-initdb.d/helloworld.sh:
+    exists: true
+    mode: "0644"
+    size: 50
+    owner: root
+    group: root
+    filetype: file
+    contains: []

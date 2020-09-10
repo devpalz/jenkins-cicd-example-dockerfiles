@@ -1,0 +1,1 @@
+command: dgoss run -e "MYSQL_RANDOM_ROOT_PASSWORD=true"
